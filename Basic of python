@@ -1,0 +1,13 @@
+# Pyhton
+Name = "Manish Kumar"
+Age = 19
+Address = "Ramgarh Cantt"
+
+x=Name
+a=None
+print ("My name is :",x)
+print(type(Name))
+print(type(Age))
+print(type(Address))
+print(type(a))
+
