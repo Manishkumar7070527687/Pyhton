@@ -1,0 +1,32 @@
+A=6
+B=3
+sum=A+B
+power= A**B
+print(power)
+print(sum)
+print (A==B)
+A=A+4
+print (not(A>B))
+a=int ("3")
+b=9
+print(a+b)
+print(type(a))
+
+x=input("Enter a Name:")
+print("Welcome the World of Python",x)
+
+y=float (input("Enter a number:"))
+print(type(y),y)
+
+Name =input("Enter a Name: ")
+Age = input("Enter a Age: ")
+Marks = input("Enter a Marks: ")
+
+print("Name :",Name)
+print("Age :",Age)
+print("Marks :",Marks)
+
+x= int(input("Enter a 1st  Number: "))
+y= int(input("Enter a 2nd Number: "))
+z=x+y
+print("The sum of two number is :",z)
