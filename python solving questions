@@ -1,0 +1,74 @@
+"""str1="hii,\n My Nabe is manish kukar\n"
+str2="manish iss sart boy"
+print(str1+str2)
+str3=len(str1+str2)
+print(str3)
+print(str2[11])
+print(str2[0:])
+print(str2[:15])
+print(str2[-5:-1])"""
+
+"""str5="my name is manish kumar"
+print(str5.endswith("ar"))
+print (str5.capitalize())
+print(str5.replace("is","of"))
+print(str5.find("i"))
+print(str5.count("is"))"""
+
+
+"""x=input("Enter a something; ")
+print(len(x))
+y="I am $ of the $ in string $ $"
+print(y.count("$"))"""
+
+"""age=16
+if(age>=18):
+    print("can vote")
+    print("can drive")  #if conditon me hr bar check hoga jitna brr shi hoga if condition utna print hoga but elif  tb hi hoga jb if cond fail ho jaye 
+elif(age>25):
+    print("Adult")
+else:
+    print("you are child")"""
+
+    #Grade question
+
+"""Marks = int(input("Enter a Marks: "))
+if(Marks >=90):
+    grade="A"
+elif(Marks >=80 and Marks < 90):
+    grade="B"
+elif(Marks >=60 and Marks <80):
+    grade="C"
+else:
+    grade="D"
+
+print("yor grade is",grade)"""
+
+# Number is even or odd
+
+"""Num= int(input("Enter a Number: "))
+if(Num %2==0):
+    print("Number is even ")
+else: 
+    print("Number is odd ")"""
+    
+# Check the Multipe of number 
+
+"""x=int(input("Enter a number: "))
+if(x%7==0):
+    print("Multiple of 7 ")
+else:
+    print("Not multiple of 7 ")"""
+
+# Which number is greater 
+
+"""a=int(input("Enter a: "))
+b=int(input("Enter b: "))
+c=int(input("Enter c: "))
+
+if(a>=b and a>=c):
+    print("First number is greater ",a)
+elif(b>=c):
+    print("Second number is greater ",b)
+else:
+    print("Third number is greater ",c)"""
